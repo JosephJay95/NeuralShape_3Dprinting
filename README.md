@@ -1,3 +1,5 @@
 # NeuralShape_3Dprinting
 
-This contains the code for the paper titled 'Neural field-based shape optimization for manufacturability-aware support structure minimisation' published in Additive Manufacturing Journal - Paper link: https://www.sciencedirect.com/science/article/pii/S221486042600103X. 
+This contains the code for the paper titled 'Neural field-based shape optimization for manufacturability-aware support structure minimisation' published in the Additive Manufacturing Journal - Paper link: https://doi.org/10.1016/j.addma.2026.105177
+
+ **** PLEASE CITE THE ABOVE PAPER IF YOU'RE USING THE FULL OR PART OF CODE PROVIDED IN THIS REPO ****
